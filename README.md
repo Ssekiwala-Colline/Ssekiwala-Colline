@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://flexiple.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllRIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f797c6b1ac4310c14214f7fafd81e30e7d267f0/people-collaborating-remotely.png/" width="50%"/>
-</div>
+</div><br>
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/ssekiwala">
@@ -9,11 +9,11 @@
   <a href="https://twitter.com/ssekiwalac">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div><br><hr>
 
 <div align="center">
   
