@@ -1,5 +1,5 @@
 <div>
-  Hey there, my name is Colline Ssekiwala: 
+  Hey there☺, my name is Colline Ssekiwala:<br> 
   I'm a Software Engineer and a blockchain developer
 </div>
 <div id="header" align="center">
