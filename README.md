@@ -1,3 +1,7 @@
+<div>
+  <h2>Hey there, my name is Colline Ssekiwala: </h2>
+  <h2>I'm a Software Engineer and a blockchain developer</h2>
+</div>
 <div id="header" align="center">
   <img src="https://flexiple.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllRIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f797c6b1ac4310c14214f7fafd81e30e7d267f0/people-collaborating-remotely.png/" width="50%"/>
 </div><br>
@@ -15,7 +19,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div><br>
 <div align ="center">
-<h2>LANGUAGES AND TOOLS<h2>
+<h3>LANGUAGES AND TOOLS<h3>
  </div>
 <hr>
 
