@@ -14,7 +14,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div><br>
+<div align ="center">
 <h2>LANGUAGES AND TOOLS<h2>
+ </div>
 <hr>
 
 
