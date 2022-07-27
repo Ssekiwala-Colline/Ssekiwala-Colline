@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   Hey there☺, my name is Colline Ssekiwala:<br> 
   I'm a Software Engineer and a blockchain developer
 </div>
