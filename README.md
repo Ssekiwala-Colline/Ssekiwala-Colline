@@ -16,7 +16,7 @@
 </div><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
 </div><br>
 <div align ="center">
 <h3>LANGUAGES AND TOOLS<h3>
