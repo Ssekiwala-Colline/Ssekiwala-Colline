@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" >
   Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Colline Ssekiwala❣:<br> 
-  🧭I'm a Software Engineer and a Blockchain Developer.
+    🧭I'm a Software Engineer and a Blockchain Developer.
 </div>
 <div id="header" align="center">
   <img src="https://flexiple.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllRIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f797c6b1ac4310c14214f7fafd81e30e7d267f0/people-collaborating-remotely.png/" width="50%"/>
