@@ -44,5 +44,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ssekiwala-Colline&theme=dark&background=000000)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssekiwala-Colline&layout=compact&theme=vision-friendly-dark)
   
+  ![Snake animation](https://github.com/Ssekiwala-Colline/Ssekiwala-Colline/blob/output/github-contribution-grid-snake.svg)
+  
   
  
