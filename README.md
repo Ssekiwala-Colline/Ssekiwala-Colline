@@ -40,7 +40,7 @@
   ### :fire: MY STATS :
 
   
-  ![Colline's github stats](https://github-readme-stats.vercel.app/api?username=Ssekiwala-Colline&show_icons=true&title_color=00f&icon_color=79ff97&text_color=006&bg_color=000)
+  ![Colline's github stats](https://github-readme-stats.vercel.app/api?username=Ssekiwala-Colline&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FF8C00&bg_color=000)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ssekiwala-Colline&theme=dark&background=000000)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssekiwala-Colline&layout=compact&theme=vision-friendly-dark)
   
