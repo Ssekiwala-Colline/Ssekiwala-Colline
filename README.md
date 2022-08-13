@@ -3,6 +3,7 @@
   <h3>Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> My name is Colline Ssekiwala❣:<br> 
      🧭I'm a Software Engineer and a Blockchain Developer.</h3>
 </div>
+
 <hr>
 
 <div id="badges" align="center">
@@ -17,11 +18,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="70%" />
 </div><br>
-<div align ="center">
-<h3>LANGUAGES AND TOOLS<h3>
- </div>
-<hr>
 
+<div align ="center">
+   <h3>LANGUAGES AND TOOLS<h3>
+</div>
+  
+<hr>
 
 <div align="center">
   
@@ -34,16 +36,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ssekiwala-Colline/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  
+</div> 
   <hr>
   
   ### :fire: MY STATS :
 
-  
   ![Colline's github stats](https://github-readme-stats.vercel.app/api?username=Ssekiwala-Colline&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FF8C00&bg_color=000)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ssekiwala-Colline&theme=dark&background=000000)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssekiwala-Colline&layout=compact&theme=vision-friendly-dark)
-  
   ![Snake animation](https://github.com/Ssekiwala-Colline/Ssekiwala-Colline/blob/output/github-contribution-grid-snake.svg)
   
   
