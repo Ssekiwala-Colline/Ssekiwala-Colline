@@ -45,7 +45,7 @@
 
   ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssekiwala-Colline&theme=transparent&show_icons=true)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ssekiwala-Colline&theme=tokyonight_duo)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssekiwala-Colline&layout=compact&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssekiwala-Colline&layout=compact&theme=tokyonight_duo)
   
   
   
