@@ -16,7 +16,7 @@
 </div><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="70%" />
+  <img src="https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=996&t=st=1666018546~exp=1666019146~hmac=45951aceebcb3cba1d53d8e2ce4d8bcabfb97aa1cca8c318941d7a61cdbd3ddd" width="70%" />
 </div><br>
 
 <div align ="center">
