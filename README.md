@@ -13,9 +13,7 @@
   <a href="https://twitter.com/ssekiwalac">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
-  <a href="https://twitter.com/ssekiwalac">
-    <img src="https://img.shields.io/badge/Hashnode?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashnodeBadge"/>
-  </a>
+ 
 </div><br>
 
 <div align="center">
