@@ -1,7 +1,7 @@
 <hr>
 <div align="center" >
-  <h3>Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> My name is Colline Ssekiwala❣:<br> 
-     🧭I'm a Software Engineer and a Blockchain Developer.</h3>
+  <h3>Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> My name is Colline Ssekiwala:<br> 
+     I'm a Software Engineer and a Blockchain Developer.</h3>
 </div>
 
 <hr>
