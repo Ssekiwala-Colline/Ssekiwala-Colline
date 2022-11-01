@@ -52,6 +52,8 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ssekiwala-Colline&theme=tokyonight_duo)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssekiwala-Colline&layout=compact&theme=transparent)
   
+  <hr>
+  
   <h3 align="center">PROJECTS👇</h3>
   
   
